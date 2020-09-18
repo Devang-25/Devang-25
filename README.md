@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/Devang-25/Devang-25/blob/master/circle-cropped%20(2).png" />
 
-- ⚡️ SDE(G4) At CISCO 
+- ⚡️ SDE At CISCO 
 - ⚡️ Offrs-GOOGLE(SWE-L3-SG), Shopee(SG), Airtel, PS, OYO 
 - ⚡️ SSB: "+" (Indian Army, Navy) 🤝
 - ⚡️ 9x INTERN 
