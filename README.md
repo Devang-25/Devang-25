@@ -10,9 +10,12 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/idevangsharma/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:devshu25@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:devang.sharma25@outlook.com)
-[![Gmail](https://img.shields.io/badge/-Paypal-c14438?style=flat&logo=Paypal&logoColor=Green)](https://www.paypal.me/devang1998?locale.x=en_GB)
+[![Paypal](https://img.shields.io/badge/-Paypal-c14438?style=flat&logo=Paypal&logoColor=Green)](https://www.paypal.me/devang1998?locale.x=en_GB)
 
 &nbsp;
+
+## Feel Free to Support Here:
+[![Paypal](https://s2.qwant.com/thumbr/700x0/5/3/82ad2ee57e5c6a39850467ecb193dcbd479a59765f30420b43cb8e6f6856b8/PayPal-Here.png?u=https%3A%2F%2Fwww.cardswitcher.co.uk%2Fwp-content%2Fuploads%2F2018%2F06%2FPayPal-Here.png&q=0&b=1&p=0&a=1)](https://www.paypal.me/devang1998?locale.x=en_GB)
 
 
 <!-- Talking about you -->
