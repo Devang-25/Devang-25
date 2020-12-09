@@ -10,6 +10,7 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/idevangsharma/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:devshu25@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:devang.sharma25@outlook.com)
+[![Gmail](https://img.shields.io/badge/-Paypal-c14438?style=flat&logo=Paypal&logoColor=Green)](https://www.paypal.me/devang1998?locale.x=en_GB)
 
 &nbsp;
 
