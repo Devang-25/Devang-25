@@ -18,6 +18,10 @@ You can use the website to generate badges: https://shields.io/
 [![Paypal](https://s2.qwant.com/thumbr/700x0/5/3/82ad2ee57e5c6a39850467ecb193dcbd479a59765f30420b43cb8e6f6856b8/PayPal-Here.png?u=https%3A%2F%2Fwww.cardswitcher.co.uk%2Fwp-content%2Fuploads%2F2018%2F06%2FPayPal-Here.png&q=0&b=1&p=0&a=1)](https://www.paypal.me/devang1998?locale.x=en_GB)
 
 
+
+<a href="https://www.teacheron.com/tutor-profile/2xfr?r=2xfr" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 336px !important; height: 144px !important"></a>
+
+
 <!-- Talking about you -->
 ## Talking about Achievements:
 
