@@ -1,5 +1,6 @@
 <!-- Your title -->
-# Hi, I'm DEVANG SHARMA, a Software Developer 🚀 from India.❤
+# Hi, I'm DEVANG SHARMA, a Senior Software Developer 🚀
+
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -85,16 +86,14 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
 <p align="center">
   <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
     <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
   </a>
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
 </p>
+-->
 
-
----
 
 
 <!-- Its main projects -->
@@ -107,6 +106,22 @@ Both apis are in trouble due to the number of requests, if you know any other to
   </a>
 </p>
 
+
+
+
+## 🏆 *Github Status*
+
+<img  src="https://github-readme-stats.vercel.app/api?username=Devang-25&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Devang-25&theme=dark" width="48%" >
+<br>
+
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Devang-25&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=onimur.onimur)
+</div>
 
 
 <!-- This readme was created by DEVANG SHARMA - https://github.com/Devang-25 -->
